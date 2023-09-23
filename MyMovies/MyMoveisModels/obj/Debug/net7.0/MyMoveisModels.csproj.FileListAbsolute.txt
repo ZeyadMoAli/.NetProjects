@@ -1,0 +1,14 @@
+D:\rider\MyMovies\MyMoveisModels\bin\Debug\net7.0\MyMoveisModels.deps.json
+D:\rider\MyMovies\MyMoveisModels\bin\Debug\net7.0\MyMoveisModels.runtimeconfig.json
+D:\rider\MyMovies\MyMoveisModels\bin\Debug\net7.0\MyMoveisModels.dll
+D:\rider\MyMovies\MyMoveisModels\bin\Debug\net7.0\MyMoveisModels.pdb
+D:\rider\MyMovies\MyMoveisModels\obj\Debug\net7.0\MyMoveisModels.csproj.AssemblyReference.cache
+D:\rider\MyMovies\MyMoveisModels\obj\Debug\net7.0\MyMoveisModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\rider\MyMovies\MyMoveisModels\obj\Debug\net7.0\MyMoveisModels.AssemblyInfoInputs.cache
+D:\rider\MyMovies\MyMoveisModels\obj\Debug\net7.0\MyMoveisModels.AssemblyInfo.cs
+D:\rider\MyMovies\MyMoveisModels\obj\Debug\net7.0\MyMoveisModels.csproj.CoreCompileInputs.cache
+D:\rider\MyMovies\MyMoveisModels\obj\Debug\net7.0\MyMoveisModels.dll
+D:\rider\MyMovies\MyMoveisModels\obj\Debug\net7.0\refint\MyMoveisModels.dll
+D:\rider\MyMovies\MyMoveisModels\obj\Debug\net7.0\MyMoveisModels.pdb
+D:\rider\MyMovies\MyMoveisModels\obj\Debug\net7.0\MyMoveisModels.genruntimeconfig.cache
+D:\rider\MyMovies\MyMoveisModels\obj\Debug\net7.0\ref\MyMoveisModels.dll

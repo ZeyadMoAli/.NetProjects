@@ -1,0 +1,17 @@
+D:\rider\MyMovies\MyMoviesData\bin\Debug\net7.0\MyMoviesData.deps.json
+D:\rider\MyMovies\MyMoviesData\bin\Debug\net7.0\MyMoviesData.runtimeconfig.json
+D:\rider\MyMovies\MyMoviesData\bin\Debug\net7.0\MyMoviesData.dll
+D:\rider\MyMovies\MyMoviesData\bin\Debug\net7.0\MyMoviesData.pdb
+D:\rider\MyMovies\MyMoviesData\bin\Debug\net7.0\MyMoveisModels.dll
+D:\rider\MyMovies\MyMoviesData\bin\Debug\net7.0\MyMoveisModels.pdb
+D:\rider\MyMovies\MyMoviesData\obj\Debug\net7.0\MyMoviesData.csproj.AssemblyReference.cache
+D:\rider\MyMovies\MyMoviesData\obj\Debug\net7.0\MyMoviesData.GeneratedMSBuildEditorConfig.editorconfig
+D:\rider\MyMovies\MyMoviesData\obj\Debug\net7.0\MyMoviesData.AssemblyInfoInputs.cache
+D:\rider\MyMovies\MyMoviesData\obj\Debug\net7.0\MyMoviesData.AssemblyInfo.cs
+D:\rider\MyMovies\MyMoviesData\obj\Debug\net7.0\MyMoviesData.csproj.CoreCompileInputs.cache
+D:\rider\MyMovies\MyMoviesData\obj\Debug\net7.0\MyMoviesData.csproj.CopyComplete
+D:\rider\MyMovies\MyMoviesData\obj\Debug\net7.0\MyMoviesData.dll
+D:\rider\MyMovies\MyMoviesData\obj\Debug\net7.0\refint\MyMoviesData.dll
+D:\rider\MyMovies\MyMoviesData\obj\Debug\net7.0\MyMoviesData.pdb
+D:\rider\MyMovies\MyMoviesData\obj\Debug\net7.0\MyMoviesData.genruntimeconfig.cache
+D:\rider\MyMovies\MyMoviesData\obj\Debug\net7.0\ref\MyMoviesData.dll
