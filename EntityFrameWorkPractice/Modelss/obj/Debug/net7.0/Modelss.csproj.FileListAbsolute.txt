@@ -1,0 +1,14 @@
+D:\reopsOnly\.NetProjects\EntityFrameWorkPractice\Modelss\bin\Debug\net7.0\Modelss.deps.json
+D:\reopsOnly\.NetProjects\EntityFrameWorkPractice\Modelss\bin\Debug\net7.0\Modelss.runtimeconfig.json
+D:\reopsOnly\.NetProjects\EntityFrameWorkPractice\Modelss\bin\Debug\net7.0\Modelss.dll
+D:\reopsOnly\.NetProjects\EntityFrameWorkPractice\Modelss\bin\Debug\net7.0\Modelss.pdb
+D:\reopsOnly\.NetProjects\EntityFrameWorkPractice\Modelss\obj\Debug\net7.0\Modelss.csproj.AssemblyReference.cache
+D:\reopsOnly\.NetProjects\EntityFrameWorkPractice\Modelss\obj\Debug\net7.0\Modelss.GeneratedMSBuildEditorConfig.editorconfig
+D:\reopsOnly\.NetProjects\EntityFrameWorkPractice\Modelss\obj\Debug\net7.0\Modelss.AssemblyInfoInputs.cache
+D:\reopsOnly\.NetProjects\EntityFrameWorkPractice\Modelss\obj\Debug\net7.0\Modelss.AssemblyInfo.cs
+D:\reopsOnly\.NetProjects\EntityFrameWorkPractice\Modelss\obj\Debug\net7.0\Modelss.csproj.CoreCompileInputs.cache
+D:\reopsOnly\.NetProjects\EntityFrameWorkPractice\Modelss\obj\Debug\net7.0\Modelss.dll
+D:\reopsOnly\.NetProjects\EntityFrameWorkPractice\Modelss\obj\Debug\net7.0\refint\Modelss.dll
+D:\reopsOnly\.NetProjects\EntityFrameWorkPractice\Modelss\obj\Debug\net7.0\Modelss.pdb
+D:\reopsOnly\.NetProjects\EntityFrameWorkPractice\Modelss\obj\Debug\net7.0\Modelss.genruntimeconfig.cache
+D:\reopsOnly\.NetProjects\EntityFrameWorkPractice\Modelss\obj\Debug\net7.0\ref\Modelss.dll

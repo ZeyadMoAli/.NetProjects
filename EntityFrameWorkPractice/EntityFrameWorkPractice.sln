@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameWorkPractice", "EntityFrameWorkPractice\EntityFrameWorkPractice.csproj", "{7AC0298B-B2A7-47A4-885A-1D0EF5B1B38C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{404DB0D3-8666-4380-8C6E-B266788BDE53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelss", "Modelss\Modelss.csproj", "{2BF197B4-FBFE-4849-9DE8-BA22762C603C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AC0298B-B2A7-47A4-885A-1D0EF5B1B38C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AC0298B-B2A7-47A4-885A-1D0EF5B1B38C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AC0298B-B2A7-47A4-885A-1D0EF5B1B38C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AC0298B-B2A7-47A4-885A-1D0EF5B1B38C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{404DB0D3-8666-4380-8C6E-B266788BDE53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{404DB0D3-8666-4380-8C6E-B266788BDE53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{404DB0D3-8666-4380-8C6E-B266788BDE53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{404DB0D3-8666-4380-8C6E-B266788BDE53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BF197B4-FBFE-4849-9DE8-BA22762C603C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BF197B4-FBFE-4849-9DE8-BA22762C603C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BF197B4-FBFE-4849-9DE8-BA22762C603C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BF197B4-FBFE-4849-9DE8-BA22762C603C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
