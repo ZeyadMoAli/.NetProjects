@@ -2658,11 +2658,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\rider\\Entity\\Entity\\Entity.csproj",
+      "projectUniqueName": "D:\\reopsOnly\\.NetProjects\\Entity\\Entity\\Entity.csproj",
       "projectName": "Entity",
-      "projectPath": "D:\\rider\\Entity\\Entity\\Entity.csproj",
+      "projectPath": "D:\\reopsOnly\\.NetProjects\\Entity\\Entity\\Entity.csproj",
       "packagesPath": "C:\\Users\\zeyad\\.nuget\\packages\\",
-      "outputPath": "D:\\rider\\Entity\\Entity\\obj\\",
+      "outputPath": "D:\\reopsOnly\\.NetProjects\\Entity\\Entity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zeyad\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -2677,11 +2677,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\rider\\Entity\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "D:\\rider\\Entity\\DataAccess\\DataAccess.csproj"
+            "D:\\reopsOnly\\.NetProjects\\Entity\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "D:\\reopsOnly\\.NetProjects\\Entity\\DataAccess\\DataAccess.csproj"
             },
-            "D:\\rider\\Entity\\Models\\Models.csproj": {
-              "projectPath": "D:\\rider\\Entity\\Models\\Models.csproj"
+            "D:\\reopsOnly\\.NetProjects\\Entity\\Models\\Models.csproj": {
+              "projectPath": "D:\\reopsOnly\\.NetProjects\\Entity\\Models\\Models.csproj"
             }
           }
         }

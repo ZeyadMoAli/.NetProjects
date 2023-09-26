@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\rider\\Entity\\Models\\Models.csproj",
+      "projectUniqueName": "D:\\reopsOnly\\.NetProjects\\Entity\\Models\\Models.csproj",
       "projectName": "Models",
-      "projectPath": "D:\\rider\\Entity\\Models\\Models.csproj",
+      "projectPath": "D:\\reopsOnly\\.NetProjects\\Entity\\Models\\Models.csproj",
       "packagesPath": "C:\\Users\\zeyad\\.nuget\\packages\\",
-      "outputPath": "D:\\rider\\Entity\\Models\\obj\\",
+      "outputPath": "D:\\reopsOnly\\.NetProjects\\Entity\\Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zeyad\\AppData\\Roaming\\NuGet\\NuGet.Config"

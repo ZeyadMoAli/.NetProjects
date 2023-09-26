@@ -1,7 +1,8 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Entity.Models;
+
+namespace Models.Models;
 
 public class Author
 {
@@ -22,7 +23,7 @@ public class Author
     {
         get
         {
-            return $"{FirstName }{{LastName}}";
+            return $"{FirstName } {LastName}";
         }
     }
 

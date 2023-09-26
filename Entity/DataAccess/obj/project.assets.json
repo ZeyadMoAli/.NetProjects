@@ -2906,11 +2906,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\rider\\Entity\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "D:\\reopsOnly\\.NetProjects\\Entity\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "D:\\rider\\Entity\\DataAccess\\DataAccess.csproj",
+      "projectPath": "D:\\reopsOnly\\.NetProjects\\Entity\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\zeyad\\.nuget\\packages\\",
-      "outputPath": "D:\\rider\\Entity\\DataAccess\\obj\\",
+      "outputPath": "D:\\reopsOnly\\.NetProjects\\Entity\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zeyad\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -2925,8 +2925,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\rider\\Entity\\Models\\Models.csproj": {
-              "projectPath": "D:\\rider\\Entity\\Models\\Models.csproj"
+            "D:\\reopsOnly\\.NetProjects\\Entity\\Models\\Models.csproj": {
+              "projectPath": "D:\\reopsOnly\\.NetProjects\\Entity\\Models\\Models.csproj"
             }
           }
         }

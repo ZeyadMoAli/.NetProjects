@@ -1,4 +1,4 @@
-﻿using Entity.Models;
+﻿using Models.Models;
 using Microsoft.EntityFrameworkCore;
 namespace DataAccess.Data;
 
@@ -11,10 +11,13 @@ public class ApplicationDbContext:DbContext
     public DbSet<SubCategory> SubCategories { get; set; }
     public DbSet<BookDetail> BookDetails { get; set; }
 
-
-    protected override void OnConfiguring(DbContextOptionsBuilder options)
+    public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
     {
+        
+    }
+    protected override void OnConfiguring(DbContextOptionsBuilder options)
+    {/*
         options.UseSqlServer(
-            "Server=ZEYAD\\SQLEXPRESS; Database=EntityDemo; TrustServerCertificate=True; Trusted_Connection=True; ");
+            "Server=ZEYAD\\SQLEXPRESS; Database=EntityDemo; TrustServerCertificate=True; Trusted_Connection=True; ");*/
     }
 }

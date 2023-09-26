@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TDhC+0ugvZ3VDaEKCZq2PmXPvXmObg9KUbMHSII3XhX98MUoMiiQenH3dzpgkVuELYDzh3A1fvLgYl28RQLODQ==",
+  "dgSpecHash": "AZO9Zj5J7t4hfslAy0YQ4yZKpyYiJ0JGYTdXK/EdCKXssQ0TClqJ72qh1s6SzIythLmS3eg79rHd5P4RQ/nz3g==",
   "success": true,
-  "projectFilePath": "D:\\rider\\Entity\\Entity\\Entity.csproj",
+  "projectFilePath": "D:\\reopsOnly\\.NetProjects\\Entity\\Entity\\Entity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zeyad\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\zeyad\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
